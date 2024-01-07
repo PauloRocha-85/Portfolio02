@@ -56,6 +56,7 @@ header .btn-mobile{
     background: url(image/2.png);
     background-size: cover;
 }
+
 #home .container .icons{
     width: 10%;
     height: 80vh;
@@ -395,7 +396,7 @@ footer a{
     header .menu-mobile{
         display: none;
         width: 50%;
-        height: 20vh;
+        height: 40vh;
         box-shadow: 0 0 15px 0 rgba(21,111,195,0.5);
         position: fixed;
         top: 20px;
